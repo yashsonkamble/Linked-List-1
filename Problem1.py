@@ -20,4 +20,3 @@ class Solution:
             prev = curr
             curr = nextNode
         return prev
-        s
